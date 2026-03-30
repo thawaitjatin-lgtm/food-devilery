@@ -76,7 +76,7 @@ function App() {
         <p className="text-sm">Wind Speed</p>
       </div>
       </div>
-       
+        <p>vtyrdtdstsdvcdrss</p>
      </div>
 
     
