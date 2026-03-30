@@ -35,9 +35,6 @@ function App() {
         <p className="text-sm">Wind Speed</p>
       </div>
       </div>
-
-      heloo
-
        
      </div>
 
